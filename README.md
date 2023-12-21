@@ -8,6 +8,8 @@ If you're reading this, thanks for taking the time to be here.
 
 So far, this code includes the following HTML elements:
 
+(Open to view code)
+
 **HTML Boilerplate**
 
 <!DOCTYPE html>
