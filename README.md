@@ -24,7 +24,6 @@ So far, this code includes the following HTML elements:
 **Anchor Elements**
 
 <a href=""></a>
-<a href="mailto:jramos@example.com">Email Me</a>
 
 **Body Elements**
 
